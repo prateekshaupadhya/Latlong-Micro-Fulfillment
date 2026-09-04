@@ -119,3 +119,14 @@ st.download_button(
 )
 
 st.success("Final solution validated successfully.")
+st.divider()
+
+st.markdown(
+    """
+    <div style="text-align: center;">
+        <p><b>Developed by Prateeksha Upadhya</b></p>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
