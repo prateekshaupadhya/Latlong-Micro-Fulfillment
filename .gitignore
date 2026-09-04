@@ -2,3 +2,4 @@ venv/
 __pycache__/
 *.pyc
 *.pbf
+data/bangalore_osm_points.csv
